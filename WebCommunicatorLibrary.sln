@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCommunicator", "WebCommunicator\WebCommunicator.csproj", "{A7CCA3B4-F50B-43F0-9250-673C1D6AC351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCommunicatorClientConsole", "WebCommunicatorClientConsole\WebCommunicatorClientConsole.csproj", "{BE5B91AC-353B-408A-B58F-54EADAFB2541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCommunicatorServerConsole", "WebCommunicatorServerConsole\WebCommunicatorServerConsole.csproj", "{B58674A0-902E-4265-A77B-142F28F0D94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CCA3B4-F50B-43F0-9250-673C1D6AC351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CCA3B4-F50B-43F0-9250-673C1D6AC351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CCA3B4-F50B-43F0-9250-673C1D6AC351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CCA3B4-F50B-43F0-9250-673C1D6AC351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5B91AC-353B-408A-B58F-54EADAFB2541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5B91AC-353B-408A-B58F-54EADAFB2541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5B91AC-353B-408A-B58F-54EADAFB2541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5B91AC-353B-408A-B58F-54EADAFB2541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58674A0-902E-4265-A77B-142F28F0D94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58674A0-902E-4265-A77B-142F28F0D94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58674A0-902E-4265-A77B-142F28F0D94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58674A0-902E-4265-A77B-142F28F0D94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
